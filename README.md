@@ -39,14 +39,19 @@ To-Do-List-Tracker/
 
 ## 📸 Screenshots
 
-(Add screenshots here later if available)
+## 📸 Screenshots
 
-Example:
+### 🏠 Home Page
+![Home Page](screenshots/homepage.png)
 
-```
-![App Screenshot](screenshot.png)
-```
+### 🔐 Login Page
+![Login Page](screenshots/loginpage.png)
 
+### 🚀 Opening Page
+![Opening Page](screenshots/openingpage.png)
+
+### 📝 Register Page
+![Register Page](screenshots/registerpage.png)
 ---
 
 ## ▶️ How to Run the Project
