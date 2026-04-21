@@ -40,16 +40,16 @@ To-Do-List-Tracker/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](ToDoListTracker-master/screenshots/homepage.png)
+![Home Page](TodoListTracker-master/screenshots/homepage.png)
 
 ### 🔐 Login Page
-![Login Page](ToDoListTracker-master/screenshots/loginpage.png)
+![Login Page](TodoListTracker-master/screenshots/loginpage.png)
 
 ### 🚀 Opening Page
-![Opening Page](ToDoListTracker-master/screenshots/openingpage.png)
+![Opening Page](TodoListTracker-master/screenshots/openingpage.png)
 
 ### 📝 Register Page
-![Register Page](ToDoListTracker-master/screenshots/registerpage.png)
+![Register Page](TodoListTracker-master/screenshots/registerpage.png)
 
 ---
 
