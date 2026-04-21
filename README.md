@@ -39,19 +39,18 @@ To-Do-List-Tracker/
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🏠 Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](ToDoListTracker-master/screenshots/homepage.png)
 
 ### 🔐 Login Page
-![Login Page](screenshots/loginpage.png)
+![Login Page](ToDoListTracker-master/screenshots/loginpage.png)
 
 ### 🚀 Opening Page
-![Opening Page](screenshots/openingpage.png)
+![Opening Page](ToDoListTracker-master/screenshots/openingpage.png)
 
 ### 📝 Register Page
-![Register Page](screenshots/registerpage.png)
+![Register Page](ToDoListTracker-master/screenshots/registerpage.png)
+
 ---
 
 ## ▶️ How to Run the Project
