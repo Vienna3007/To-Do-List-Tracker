@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179939342429",
+    "project_id": "todolisttracker-b8206",
+    "storage_bucket": "todolisttracker-b8206.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179939342429:android:34abecbbdbd7beed88b5b4",
+        "android_client_info": {
+          "package_name": "com.example.todolisttracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "YOUR_API_KEY_HERE "
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

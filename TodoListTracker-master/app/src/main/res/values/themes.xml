@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.TodoListTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/black</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="colorSecondary">#003AF5</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:statusBarColor">#3700B3</item>
+    </style>
+
+    <style name="Theme.TodoListTracker.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_icon</item>
+         <item name="windowSplashScreenIconBackgroundColor">@android:color/transparent</item>
+    <item name="windowSplashScreenBackground">#FFFFFF</item>
+    <item name="postSplashScreenTheme">@style/Theme.TodoListTracker</item>
+</style>
+
+    <style name="CustomButtonStyle" parent="Widget.Material3.Button">
+        <item name="backgroundTint">#3700B3</item>
+        <item name="cornerRadius">20dp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>
+

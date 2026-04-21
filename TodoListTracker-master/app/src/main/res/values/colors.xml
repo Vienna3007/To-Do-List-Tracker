@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="grey_900">#121212</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="personalCard">#FFECB3</color>
+    <color name="studyCard">#C8E6C9</color>
+    <color name="workCard">#BBDEFB</color>
+    <color name="defaultCard">#F5F5F5</color>
+
+    <color name="taskCardLight">#F3E5F5</color>
+    <color name="taskCardDark">#1E1E1E</color>
+</resources>
