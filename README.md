@@ -1,8 +1,6 @@
 # 📝 To-Do List Tracker
 
-A simple and efficient **To-Do List Tracker web application** that helps users manage their daily tasks, improve productivity, and stay organized.
-
-This project allows users to add, delete, and track tasks easily through a clean and user-friendly interface.
+A simple and efficient **To-Do List Tracker web application** that helps users manage their daily tasks and improve productivity.
 
 ---
 
@@ -25,7 +23,6 @@ This project allows users to add, delete, and track tasks easily through a clean
 ---
 
 ## 📂 Project Structure
-
 To-Do-List-Tracker/
 │
 ├── index.html
@@ -57,8 +54,7 @@ To-Do-List-Tracker/
 
 **Srivaishnavi**
 
-GitHub Profile:
-https://github.com/Vienna3007
+GitHub: https://github.com/Vienna3007
 
 ---
 
